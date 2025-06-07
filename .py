@@ -1,6 +1,4 @@
 # calculator program 
-# we will take the input 2 numbers 
-# we need to save the operator also 
 
 x= input("enter a number : ")
 z= input("enter the operator: ")
